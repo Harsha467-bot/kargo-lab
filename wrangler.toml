@@ -1,0 +1,6 @@
+name = "kargo-lab-test"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+BUILD = "v0.0.1"
