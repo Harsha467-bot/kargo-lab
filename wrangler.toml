@@ -3,4 +3,4 @@ main = "src/index.js"
 compatibility_date = "2026-10-01"
 
 [vars]
-BUILD = "v0.0.4"
+BUILD = "v0.0.5"
